@@ -1,2 +1,22 @@
 
 /* Your CSS Code here. */
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+main{
+	width: 150px;
+	height: 150px;
+	background-color: #000000;
+}
+p.hello-accio{
+	color: #ffffff;
+	margin-left: 32px;
+	padding: 10px;
+}
+
+
+
+
+
